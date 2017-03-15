@@ -1,0 +1,28 @@
+**** Privacy Policy ****
+
+The Monkey Guardian respects the privacy concerns of our users. We have created this Privacy Policy to explain what we do with information gathered from users, how it is being gathered, stored and managed.
+
+* User data collection
+
+Application does not store any kind of information from the user.
+
+
+* Get Accounts
+
+Application needs to access to get account permission to send notification to users with information about the races.
+
+
+* Changes to our Privacy Policy
+
+The current Privacy Policy may be changed. We will keep this document up to date.
+Last updated: March 15, 2017
+
+
+* Your Consent
+
+By using The Monnkey Guardian's F1 app you consent to this Privacy Policy.
+
+
+* Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
